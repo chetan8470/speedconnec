@@ -1,0 +1,443 @@
+{
+    "110092": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Anand Vihar": {
+                "service_for_sdn": "NO"
+            },
+            "IP Extension": {
+                "services_for_SDH": "Yes"
+            },
+            "Laxmi Nagar East Delhi": {
+                "services_for_SDH": "NO"
+            },
+            "Mandawali Fazalpur": {
+                "services_for_SDH": "Yes"
+            },
+            "Nirman Vihar": {
+                "services_for_SDH": "NO"
+            },
+            "Shakarpur": {
+                "services_for_SDH": "Yes"
+            },
+            "Surajmal Vihar": {
+                "services_for_SDH": "NO"
+            },
+            "Yozna Vihar": {
+                "services_for_SDH": "NO"
+            }
+        }
+    },
+    "110051": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Azad Nagar East Delhi": {
+                "service_for_sdn": "Yes"
+            },
+            "Govind Pura": {
+                "services_for_SDH": "NO"
+            },
+            "Krishna Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Ram Nagar East Delhi": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110090": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Badarpur Khadar": {
+                "service_for_sdn": "NO"
+            },
+            "Karawal Nagar": {
+                "services_for_SDH": "NO"
+            },
+            "Sonia Vihar": {
+                "services_for_SDH": "NO"
+            },
+            "Shaheed Bhagat Singh Colony": {
+                "services_for_SDH": "NO"
+            },
+            "Shri Ram Colony Rajiv nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Khajoori Khas": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110032": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Balbir Nagar": {
+                "service_for_sdn": "Yes"
+            },
+            "Bhola Nath Nagar": {
+                "services_for_SDH": "NO"
+            },
+            "Distt. Court KKD": {
+                "services_for_SDH": "Yes"
+            },
+            "Goverdhan Bihari Colony": {
+                "services_for_SDH": "Yes"
+            },
+            "Loni Road": {
+                "services_for_SDH": "Yes"
+            },
+            "Man Sarovar Park": {
+                "services_for_SDH": "Yes"
+            },
+            "Rohtash Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Shahdara Mandi": {
+                "services_for_SDH": "Yes"
+            },
+            "Shahdara": {
+                "services_for_SDH": "Yes"
+            },
+            "Shivaji Park East Delhi": {
+                "services_for_SDH": "Yes"
+            },
+            "Telewara": {
+                "services_for_SDH": "Yes"
+            },
+            "Vishwas Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Babarpur": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110053": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Brahampuri": {
+                "service_for_sdn": "Yes"
+            },
+            "Garhi Mandu": {
+                "services_for_SDH": "Yes"
+            },
+            "Ghonda": {
+                "services_for_SDH": "Yes"
+            },
+            "Jafrabad East Delhi": {
+                "services_for_SDH": "Yes"
+            },
+            "Jagjit Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Maujpur": {
+                "services_for_SDH": "Yes"
+            },
+            "New Usmanpur": {
+                "services_for_SDH": "Yes"
+            },
+            "Seelampur": {
+                "services_for_SDH": "Yes"
+            },
+            "Yamuna Vihar": {
+                "services_for_SDH": "Yes"
+            },
+            "Bhajanpura": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110091": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Chilla": {
+                "service_for_sdn": "NO"
+            },
+            "Himmatpuri": {
+                "services_for_SDH": "NO"
+            },
+            "Kalyanpuri": {
+                "services_for_SDH": "Yes"
+            },
+            "Kalyanvas": {
+                "services_for_SDH": "NO"
+            },
+            "Mayur Vihar Ph I": {
+                "services_for_SDH": "NO"
+            },
+            "Patparganj": {
+                "services_for_SDH": "Yes"
+            },
+            "Trilok Puri": {
+                "services_for_SDH": "NO"
+            }
+        }
+    },
+    "110095": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Dilshad Garden": {
+                "service_for_sdn": "Yes"
+            },
+            "G.T.B. Hospital": {
+                "services_for_SDH": "Yes"
+            },
+            "Jhilmil": {
+                "services_for_SDH": "Yes"
+            },
+            "Jhilmil Tahirpur": {
+                "services_for_SDH": "Yes"
+            },
+            "New Seemapuri": {
+                "services_for_SDH": "Yes"
+            },
+            "Old Seemapuri": {
+                "services_for_SDH": "Yes"
+            },
+            "V.K. Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Vivek Vihar": {
+                "services_for_SDH": "NO"
+            },
+            "Vishwakarma nagar": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110031": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Gandhi Nagar Bazar": {
+                "service_for_sdn": "Yes"
+            },
+            "Gandhi Nagar East Delhi": {
+                "services_for_SDH": "Yes"
+            },
+            "Geeta Colony": {
+                "services_for_SDH": "Yes"
+            },
+            "Kailash Nagar": {
+                "services_for_SDH": "Yes"
+            },
+            "Raghubar Pura": {
+                "services_for_SDH": "NO"
+            },
+            "Rajgarh Colony": {
+                "services_for_SDH": "Yes"
+            },
+            "Shastri Nagar East Delhi": {
+                "services_for_SDH": "NO"
+            }
+        }
+    },
+    "110096": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Ghazipur": {
+                "service_for_sdn": "NO"
+            },
+            "Mayur Vihar Ph III": {
+                "services_for_SDH": "NO"
+            },
+            "Vasundhra Enclave": {
+                "services_for_SDH": "NO"
+            }
+        }
+    },
+    "110094": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Gokal Puri": {
+                "service_for_sdn": "Yes"
+            },
+            "Johripur": {
+                "services_for_SDH": "NO"
+            },
+            "Khazuri Khas": {
+                "services_for_SDH": "Yes"
+            },
+            "Dayal Pur": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110093": {
+        "state": "DELHI",
+        "sub_area": "East Delhi",
+        "area": {
+            "Harsh Vihar": {
+                "service_for_sdn": "Yes"
+            },
+            "Loni Road Housing Complex": {
+                "services_for_SDH": "NO"
+            },
+            "Nand Nagri \"A\"": {
+                "services_for_SDH": "Yes"
+            },
+            "Nand Nagri \"C\"": {
+                "services_for_SDH": "Yes"
+            },
+            "Mandoli": {
+                "services_for_SDH": "Yes"
+            },
+            "Sunder Nagari": {
+                "services_for_SDH": "Yes"
+            },
+            "Housing Complex Loni Road": {
+                "services_for_SDH": "NO"
+            }
+        }
+    },
+    "110067": {
+        "state": "DELHI",
+        "sub_area": "South Delhi",
+        "area": {
+            "munirka": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110057": {
+        "state": "DELHI",
+        "sub_area": "South Delhi",
+        "area": {
+            "vasant vihar": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110022": {
+        "state": "DELHI",
+        "sub_area": "South Delhi",
+        "area": {
+            "RK Puram": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110019": {
+        "state": "DELHI",
+        "sub_area": "South Delhi",
+        "area": {
+            "Kalkaji": {
+                "service_for_sdn": "Yes"
+            },
+            "Govindpuri": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110025": {
+        "state": "DELHI",
+        "sub_area": "South Delhi",
+        "area": {
+            "Shaheen Bagh": {
+                "service_for_sdn": "Yes"
+            },
+            "Okhla": {
+                "services_for_SDH": "Yes"
+            },
+            "Abufazal": {
+                "services_for_SDH": "Yes"
+            },
+            "Jamia Nagar": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "110026": {
+        "state": "DELHI",
+        "sub_area": "West Delhi",
+        "area": {
+            "punjabi bagh": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110018": {
+        "state": "DELHI",
+        "sub_area": "West Delhi",
+        "area": {
+            "Vishnu garden": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110006": {
+        "state": "DELHI",
+        "sub_area": "West Delhi",
+        "area": {
+            "Sadar Bazar": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110055": {
+        "state": "DELHI",
+        "sub_area": "West Delhi",
+        "area": {
+            "Paharganj": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "110005": {
+        "state": "DELHI",
+        "sub_area": "West Delhi",
+        "area": {
+            "Karol Bagh": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "201012": {
+        "state": "Uttar Pradesh",
+        "sub_area": "Ghaziabad",
+        "area": {
+            "Vasundhra": {
+                "service_for_sdn": "Yes"
+            },
+            "Kaushambi": {
+                "services_for_SDH": "Yes"
+            }
+        }
+    },
+    "201010": {
+        "state": "Uttar Pradesh",
+        "sub_area": "Ghaziabad",
+        "area": {
+            "Indirapuram": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "201009": {
+        "state": "Uttar Pradesh",
+        "sub_area": "Ghaziabad",
+        "area": {
+            "Vijay Nagar": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    },
+    "201005": {
+        "state": "Uttar Pradesh",
+        "sub_area": "Ghaziabad",
+        "area": {
+            "Sahibabad": {
+                "service_for_sdn": "Yes"
+            }
+        }
+    }
+}
