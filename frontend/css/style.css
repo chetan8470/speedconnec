@@ -1,0 +1,390 @@
+/* body tag css start here */
+body{
+    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity)) !important;
+}
+/* background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity)) !important; */
+/* body tag css end here */
+/* start of css for corousal */
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+/* end of css for corousal */
+
+/* start icons css */
+
+.icon{
+	font-size: 17px;
+    color:  white;
+    background-color: black;
+    }
+
+/* end here */
+
+
+/* nav-btn css start here */
+.nav-btn{
+    color:#033051 !important;
+    background-color: ##fff  !important;
+    border-color: #033051 !important;
+  }
+
+.nav-btn:hover {
+    color: #fff !important;
+    background-color: #033051 !important;
+    border-color: #033051 !important;
+    /* opacity: 0.5; */
+  }
+/* nav-btn end here */
+
+/* active class code start header */
+.nav-active{
+    background-color: #033051 !important;
+    color:#ffffff !important;
+  }
+/* active class coed end here */
+
+/* corosal css start here  */
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+/* corousal css code end here  */
+
+/* footer css start here */
+.footer-backgorund-img{
+    background-image: url('img/footer/footer_bg.jpg');
+}
+/* footer css end here */
+
+/* dropdown css start here  */
+
+/* dropdown css ends here */
+
+/* card css star here */
+
+.pricing {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 0 10px #033051;
+    margin-top: 40px;
+    padding: 58px 0 35px;
+    text-align: center;
+    color: #033051;
+}
+
+.pricing:hover{
+    background: #033051;
+    box-shadow: 0 0 10px #033051;
+    margin-top: 40px;
+    padding: 58px 0 35px;
+    text-align: center;
+    color: #fff;
+}
+
+.pricing .content span {
+    color: #033051;
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+}
+
+.pricing:hover .content span {
+    background: #033051;
+    color: #fff;
+}
+
+.pricing .content .price p {
+    color: #033051;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47px;
+}
+
+.pricing:hover .content .price p {
+    background: #033051;
+    color: #fff;
+}
+
+.pricing .content ul li {
+    color: #033051;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0px 0;
+    position: relative;
+}
+
+.pricing:hover .content ul li {
+    background: #033051;
+    color: #fff;
+}
+
+/* a.voopo__btn.btn--light, button.voopo__btn.btn--light {
+    background: linear-gradient(-90deg, #eef3f6, #eef3f6);
+    color: #e05941;
+    position: relative;
+    transition: all 0.5s ease 0s;
+    z-index: 1;
+} */
+
+a.voopo__btn, button.voopo__btn {
+    background: #033051;
+    border-radius: 24px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    height: 47px;
+    line-height: 47px;
+    text-decoration: none;
+    padding: 0 40px;
+    position: relative;
+    transition: all 0.5s ease 0s;
+    z-index: 1;
+}
+
+.pricing:hover .price__btn  a.voopo__btn {
+    color: #033051;
+    background: #fff;
+}
+
+.pricing .price__btn  a.voopo__btn:hover{
+    color: white;
+    background-color: #E15D45;
+}
+
+
+/* cards css ends here  */
+
+/* select dropdown css start here  */
+.select_decor{
+    width: 50%;
+    background-color: #fff;
+}
+ /* select dropdown end here  */
+
+/* footer email input box css start here  */
+.main-search-input {
+    background: #fff;
+    padding: 0 120px 0 0;
+    /* border-radius: 1px; */
+    margin-top: 00px;
+    box-shadow: 0px 0px 0px 6px rgba(255, 255, 255, 0.3)
+}
+
+.fl-wrap {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.main-search-input:before {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    width: 50px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.41);
+    left: 50%;
+    margin-left: -25px
+}
+
+.main-search-input-item {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    /* border-right: 1px solid #eee; */
+    height: 50px;
+    position: relative
+}
+
+.main-search-input-item input:first-child {
+    /* border-radius: 100% */
+}
+
+.main-search-input-item input {
+    float: left;
+    /* border: none; */
+    width: 100%;
+    height: 50px;
+    padding-left: 20px
+}
+
+.main-search-button {
+    background: #033051
+}
+
+.main-search-button {
+    position: absolute;
+    right: 0px;
+    height: 50px;
+    width: 120px;
+    color: #fff;
+    top: 0;
+    border: none;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    cursor: pointer
+}
+
+.main-search-input-wrap {
+    max-width: 500px;
+    margin: 20px auto;
+    position: relative
+}
+
+:focus {
+    outline: 0
+}
+
+@media only screen and (max-width: 768px) {
+    .main-search-input {
+        background: rgba(255, 255, 255, 0.2);
+        padding: 14px 20px 10px;
+        /* border-radius: 10px; */
+        box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.0)
+    }
+
+    .main-search-input-item {
+        width: 100%;
+        /* border: 1px solid #eee; */
+        height: 50px;
+        border: none;
+        margin-bottom: 10px
+    }
+
+    .main-search-input-item input {
+        /* border-radius: 6px !important; */
+        background: #fff
+    }
+
+    .main-search-button {
+        position: relative;
+        float: left;
+        width: 100%;
+        /* border-radius: 6px */
+    }
+}
+
+/* footer email input box css end here  */
+
+/* pincode banner css code start here  */
+.pincode_banner_bg_img{
+    background: url('img/footer/footer_bg.jpg'), #6DB3F2;
+}
+
+
+.background {
+    background-image: url('img/footer/footer_bg.jpg');
+    position: relative;
+}
+
+.layer {
+    background-color: rgba(0, 0, 216, 0.7);
+    /* position: absolute; */
+    /* top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; */
+}
+/* pincode banner css code ends here  */
+
+
+/* FAQ accoudian css style code start here  */
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+background-color: #ccc;
+}
+
+.accordion:after {
+content: '\002B';
+color: #777;
+font-weight: bold;
+float: right;
+margin-left: 5px;
+}
+
+.active:after {
+content: "\2212";
+}
+
+.panel {
+padding: 0 18px;
+background-color: white;
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.2s ease-out;
+}
+
+/* FAQ accoudian css style code end here  */
+
+/* css code start here for home page  */
+.service:hover {
+    transform: translateY(-10px);
+}
+.service {
+    background: #033051 none repeat scroll 0 0;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #033051;
+    padding: 46px 38px;
+    transition: 0.5s;
+    color: #fff;
+    text-align : center;
+}
+.service h2 a:hover {
+    /* color: #e05941; */
+}
+
+.service h2 a {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+a:hover, a:focus, a:active {
+    text-decoration: none;
+    outline: none;
+}
+
+.service img {
+    height: 38px;
+}
+
+img {
+    -ms-interpolation-mode: bicubic;
+    border: 0;
+    vertical-align: middle;
+}
+/* css code end here for home page */
